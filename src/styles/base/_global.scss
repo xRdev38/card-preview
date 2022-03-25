@@ -1,0 +1,26 @@
+@import "../vendor/variables";
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0 auto;
+  font-size: 1.5rem;
+  background-color: $dark-blue;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+
+.title {
+  font-size: 3.5rem;
+  font-family: $ff-lexend;
+  font-weight: 700;
+  color: white;
+
+  span {
+    color: $soft-violet;
+  }
+}
