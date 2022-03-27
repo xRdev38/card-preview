@@ -1,0 +1,1 @@
+{"version":3,"file":"js/app.c28ad4d1.js","mappings":"yBAEAA,QAAQC,IAAI,sB","sources":["webpack://frontend-mentor-challenge-2/./src/scripts/index.js"],"sourcesContent":["import '../styles/index.scss';\n\nconsole.log('webpack starterkit');\n"],"names":["console","log"],"sourceRoot":""}
